@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  publisher: MyString
+  f2f_url: MyString
+  title: MyString
+  source_url: MyString
+  recipe_id: 1
+  image_url: MyString
+  social_rank: 1.5
+  publisher_url: MyString
+
+two:
+  publisher: MyString
+  f2f_url: MyString
+  title: MyString
+  source_url: MyString
+  recipe_id: 1
+  image_url: MyString
+  social_rank: 1.5
+  publisher_url: MyString
